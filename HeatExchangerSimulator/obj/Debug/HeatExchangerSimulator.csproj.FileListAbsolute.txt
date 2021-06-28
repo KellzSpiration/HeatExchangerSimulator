@@ -1,0 +1,10 @@
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\bin\Debug\HeatExchangerSimulator.exe.config
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\bin\Debug\HeatExchangerSimulator.exe
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\bin\Debug\HeatExchangerSimulator.pdb
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\obj\Debug\HeatExchangerSimulator.csprojResolveAssemblyReference.cache
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\obj\Debug\HeatExchangerSimulator.Form1.resources
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\obj\Debug\HeatExchangerSimulator.Properties.Resources.resources
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\obj\Debug\HeatExchangerSimulator.csproj.GenerateResource.Cache
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\obj\Debug\HeatExchangerSimulator.exe
+c:\users\kellzspiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\obj\Debug\HeatExchangerSimulator.pdb
+C:\Users\KellzSpiration\documents\visual studio 2015\Projects\HeatExchangerSimulator\HeatExchangerSimulator\obj\Debug\HeatExchangerSimulator.Simulation.resources
