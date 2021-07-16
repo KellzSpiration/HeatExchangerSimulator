@@ -69,7 +69,7 @@
             this.label9 = new System.Windows.Forms.Label();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnReset = new System.Windows.Forms.Button();
             this.label22 = new System.Windows.Forms.Label();
             this.txtTubeL = new System.Windows.Forms.TextBox();
             this.label23 = new System.Windows.Forms.Label();
@@ -409,7 +409,7 @@
             // fHot
             // 
             this.fHot.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.fHot.Location = new System.Drawing.Point(385, 366);
+            this.fHot.Location = new System.Drawing.Point(853, 75);
             this.fHot.Name = "fHot";
             this.fHot.Size = new System.Drawing.Size(100, 35);
             this.fHot.TabIndex = 36;
@@ -429,7 +429,7 @@
             // fCold
             // 
             this.fCold.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.fCold.Location = new System.Drawing.Point(853, 75);
+            this.fCold.Location = new System.Drawing.Point(385, 363);
             this.fCold.Name = "fCold";
             this.fCold.Size = new System.Drawing.Size(100, 35);
             this.fCold.TabIndex = 38;
@@ -508,18 +508,19 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
-            // button2
+            // btnReset
             // 
-            this.button2.BackColor = System.Drawing.Color.Maroon;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.button2.Location = new System.Drawing.Point(698, 686);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(112, 39);
-            this.button2.TabIndex = 46;
-            this.button2.Text = "RESET";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnReset.BackColor = System.Drawing.Color.Maroon;
+            this.btnReset.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnReset.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReset.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnReset.Location = new System.Drawing.Point(698, 686);
+            this.btnReset.Name = "btnReset";
+            this.btnReset.Size = new System.Drawing.Size(112, 39);
+            this.btnReset.TabIndex = 46;
+            this.btnReset.Text = "RESET";
+            this.btnReset.UseVisualStyleBackColor = false;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // label22
             // 
@@ -574,7 +575,7 @@
             this.Controls.Add(this.txtTubeL);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.btnReset);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.label19);
             this.Controls.Add(this.label9);
@@ -668,7 +669,7 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnReset;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.TextBox txtTubeL;
         private System.Windows.Forms.Label label23;
